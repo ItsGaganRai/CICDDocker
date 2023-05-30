@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J0kN1GkFzbrzb9dBfClKnIPXE9Kxm2YkWJFsIOxAlMLiEf9yAeTe3ufmjpVEN4pwUT23FA9UeBhu7P7KWeHemg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\graibv\\Documents\\VSCICDSQL\\CICD_Repo\\CICDDockerApp\\CICDDockerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\graibv\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
